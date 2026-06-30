@@ -1,0 +1,6 @@
+{
+  "name": "Orderly AI",
+  "description": "Orderly AI is a smart personal productivity assistant that helps users organize tasks and complete work on time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
